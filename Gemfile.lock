@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    get_process_mem (0.2.3)
+    google-protobuf (3.21.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  get_process_mem
+  google-protobuf (= 3.21.1)
+
+BUNDLED WITH
+   2.1.2
